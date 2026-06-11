@@ -9,7 +9,7 @@ Earshot, distance within which a certain noise may be heard.
 Complete, solid, or secure. 
 
 bully
-drunk sailor
+drunk sailor.
 An expression of admiration or approval recognizing an individual's physical, mental, or moral strength, as well as their capacity to guide, influence, motivate, or effectively direct others toward shared objectives.
 A person who is intentionally physically or emotionally cruel to others, especially to those whom they perceive as being vulnerable or of less power or privilege
 
