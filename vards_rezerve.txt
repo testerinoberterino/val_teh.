@@ -18,10 +18,35 @@ The plunder and pillaging of a captured town or city.
 Dismissal from employment, or discharge from a position.
 A bag; especially a large bag of strong, coarse material for storage and handling of various commodities, such as potatoes, coal, coffee; or, a bag with handles used at a supermarket, a grocery sack; or, a small bag for small items, a satchel.
 
+goods
+Items of merchandise.
+The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.
+Acting in the interest of what is beneficial, ethical, or moral.
+
 marathon
 A historical geographic site in ancient Greece associated with the Battle of Marathon, a significant military confrontation between Greek forces and the Persian army in 490 BCE.
 A formally organized long-distance competitive running event designed to test participants’ endurance, speed, and physical performance.
 To participate in and complete a long-distance endurance race covering the standard marathon distance of 42.195 kilometers.
+
+shanks
+A straight, narrow part of an object such as a drill or tool; shaft; stem.
+A protruding part of an object by which it is held or attached.
+The metal part connecting the working end of a tool to its handle.
+
+riven
+Torn apart; split asunder by force.
+To cleave or split by force; to rend apart violently.
+In a state of being forcibly broken or divided.
+
+paris
+The capital city of France, historically significant as a political and cultural center.
+A figure in Greek mythology, prince of Troy, whose abduction of Helen caused the Trojan War.
+A proper noun referring to either the French capital or the Trojan prince in historical and literary contexts.
+
+pounders
+A gun capable of firing a specified weight of shot in pounds.
+Something that weighs a specified number of pounds.
+A vessel in which something is pounded, or an implement used in pounding.
 
 master blaster
 A literal master of blasting, an expert in explosives.
