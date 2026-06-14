@@ -48,7 +48,7 @@ A gun capable of firing a specified weight of shot in pounds.
 Something that weighs a specified number of pounds.
 A vessel in which something is pounded, or an implement used in pounding.
 
-faggot
+faggots
 A meatball made with offcuts and offal, especially pork.
 A bundle of sticks or brushwood intended to be used for fuel tied together for carrying.
 A burning or smouldering piece of firewood.
